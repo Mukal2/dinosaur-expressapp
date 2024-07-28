@@ -1,0 +1,9 @@
+[
+    { "name": "Tyrannosaurus", "period": "Late Cretaceous", "diet": "Carnivore" },
+    { "name": "Triceratops", "period": "Late Cretaceous", "diet": "Herbivore" },
+    { "name": "Velociraptor", "period": "Late Cretaceous", "diet": "Carnivore" },
+    { "name": "Stegosaurus", "period": "Late Jurassic", "diet": "Herbivore" },
+    { "name": "Brachiosaurus", "period": "Late Jurassic", "diet": "Herbivore" },
+    { "name": "Spinosaurus", "period": "Early Cretaceous", "diet": "Carnivore" }
+  ]
+  
